@@ -1,3 +1,5 @@
+<img width="1584" height="396" alt="Blue and Black Modern Engineer LinkedIn Banner" src="https://github.com/user-attachments/assets/dc464caf-2b85-4c94-9c96-1fd83224d19e" />
+
 # Hey there! 👋 I'm Kareema Ayman
 
 Welcome to my GitHub profile! I'm an **Electrical Engineering Student** passionate about building innovative solutions and exploring the intersection of hardware and software.
