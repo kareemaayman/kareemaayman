@@ -13,9 +13,9 @@ I'm an electrical engineering student dedicated to creating impactful projects a
 My skills are reflected across my repositories. I work with a diverse range of technologies including:
 
 - **Programming Languages**: Python, C/C++
-- **Hardware & Embedded Systems**: Arduino, Microcontrollers, Circuit Design
-- **Tools & Platforms**: Git, GitHub, CAD Software
-- **Problem-Solving**: Algorithm Design, System Architecture, Debugging
+- **Hardware & Embedded Systems**: Arduino, Microcontrollers, Circuit Design, Power Electronics
+- **Tools & Platforms**: Git, GitHub, CAD Software, MATLAB/Simulink
+- **Problem-Solving**: Algorithm Design, System Architecture, Signal Processing, Control Systems
 
 *Explore my repositories to see these skills in action!*
 
@@ -24,18 +24,16 @@ My skills are reflected across my repositories. I work with a diverse range of t
 ## 🏆 Featured Projects
 
 Check out my repositories to see the projects I'm most proud of. Each repo showcases different aspects of my engineering and development journey.
+### 🔌 Latest Embedded Project
+- **[IDMT_relay](https://github.com/kareemaayman/IDMT_relay)** - Inverse Definite Minimum Time (IDMT) relay protection system for power systems. An advanced embedded implementation for electrical power protection and coordination.
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=kareemaayman&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kareemaayman&layout=compact&theme=radical)
-
-</div>
+### 🤖 ROS & Robotics Projects
+- **[ros_projects](https://github.com/kareemaayman/ros_projects)** - Collection of Robot Operating System projects showcasing autonomous systems, sensor integration, and robotic control
+- **[ros_pub_sub](https://github.com/kareemaayman/ros_pub_sub)** - ROS publisher-subscriber architecture demonstrations
+- **[turtlebot_ws](https://github.com/kareemaayman/turtlebot_ws)** - TurtleBot workspace with navigation and control systems
+- **[turtle-controller](https://github.com/kareemaayman/turtle-controller)** - TurtleBot motion controller implementation
+- **[visual_nav_system](https://github.com/kareemaayman/visual_nav_system)** - Vision-based autonomous navigation system
+- **[grid_fleet](https://github.com/kareemaayman/grid_fleet)** - Multi-robot fleet coordination and control
 
 ---
 
