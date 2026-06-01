@@ -12,9 +12,8 @@ I'm an electrical engineering student dedicated to creating impactful projects a
 
 My skills are reflected across my repositories. I work with a diverse range of technologies including:
 
-- **Programming Languages**: Python, JavaScript/TypeScript, C/C++
+- **Programming Languages**: Python, C/C++
 - **Hardware & Embedded Systems**: Arduino, Microcontrollers, Circuit Design
-- **Web Technologies**: HTML, CSS, React, Node.js
 - **Tools & Platforms**: Git, GitHub, CAD Software
 - **Problem-Solving**: Algorithm Design, System Architecture, Debugging
 
@@ -44,9 +43,9 @@ Check out my repositories to see the projects I'm most proud of. Each repo showc
 
 Feel free to reach out to me:
 
-- **Email**: kareem.ayman@example.com *(Update with your actual email)*
-- **LinkedIn**: [linkedin.com/in/kareemaayman](https://linkedin.com) *(Update with your profile)*
-- **Twitter/X**: [@kareemaayman](https://twitter.com) *(Update with your handle)*
+- **Email**: karemabaroma2022@gmail.com
+- **Educational Email**: es-karima.ayman2027@alexu.edu.eg
+- **LinkedIn**: www.linkedin.com/in/kareema-barouma-478151314
 
 ---
 
